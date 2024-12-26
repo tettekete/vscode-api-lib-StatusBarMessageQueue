@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "status-bar-message-queue.helloWorld",
-        "title": "Hello World"
+        "command": "status-bar-message-queue.test01",
+        "title": "Test01"
       }
     ]
   },
